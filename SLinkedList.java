@@ -185,7 +185,7 @@ public class SLinkedList<T> implements Iterable<T>{
         }
     
         head = prev; // new head is the last non-null node
-        // TO-DO
+        
     }
     
     public void deleteConsecutiveDuplicates(){
