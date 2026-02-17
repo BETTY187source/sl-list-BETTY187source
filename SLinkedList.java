@@ -229,6 +229,4 @@ public class SLinkedList<T> implements Iterable<T>{
         return true;
     }
 
-        //TODO
-
 }
